@@ -9,10 +9,4 @@ public class BoradTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(BoradTestApplication.class, args);
     }
-
-
-
-
-
-
 }
